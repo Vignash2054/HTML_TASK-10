@@ -1,0 +1,36 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+.container{
+    border: 2px solid black;
+    border-radius: 5px;
+    width: 400px;
+    height: 400px ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color:white;
+}
+
+body{
+    margin-top: 100px;
+     align-content: center;
+     align-items: center;
+     display: flex;
+     justify-content: center;
+     background-color:darkturquoise;
+}
+
+button{
+    background-color: green;
+    color: white;
+    padding: 5px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10%;
+}
+#one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+}
